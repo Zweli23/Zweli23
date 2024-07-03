@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm [Zweli Ngwenya] 👋
 
-<!--
-**Zweli23/Zweli23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an aspiring full stack developer, passionate about learning and creating innovative solutions.
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zweli23&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zweli&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
+
+
+
+
+
+
+Update profile README
+
+
+
+
+
+
+
+
+
+
+
+
+
+
