@@ -16,7 +16,8 @@ Welcome to my GitHub profile! I'm an aspiring full stack developer, passionate a
 </p>
 
 
-https://komarev.com/ghpvc/?username=zweli23&style=for-the-badge&color=orange
+![Profile views](https://komarev.com/ghpvc/?username=Zweli23&style=for-the-badge&color=orange)
+
 
 
 Update profile README
