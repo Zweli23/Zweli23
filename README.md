@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm an aspiring full stack developer, passionate a
 [![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zweli23&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
+![Profile views](https://shields.io/badge/dynamic/json?color=success&label=Profile%20views&query=value&url=https://api.countapi.xyz/hit/Zweli23/profile&style=flat)
 
 
 
