@@ -19,8 +19,6 @@ Welcome to my GitHub profile! I'm an aspiring full stack developer, passionate a
 
 
 
-Update profile README
-
 
 
 
