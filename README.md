@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm an aspiring full stack developer, passionate a
 
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
 
