@@ -11,8 +11,10 @@ Welcome to my GitHub profile! I'm an aspiring full stack developer, passionate a
 [![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zweli23&theme=github_dark) 
 
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Zweli23)
 
 
 
